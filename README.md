@@ -1,2 +1,4 @@
-- 👋 Hi, I’m @Gadoobaloo
-I am currently studying game development at CSUSB
+CSUSB Alumni
+Bachelor of Arts in Computer Systems - Game Development
+
+Looking for work!
