@@ -1,4 +1,4 @@
-#Angel Zuniga
+# Angel Zuniga
 
 _Looking for work!_
 
@@ -7,10 +7,10 @@ Bachelor of Arts in Computer Systems - Game Development
 
 ---
 
-##Programming Languages
+## Programming Languages
 
-*C#
-*HTML
-*CSS
-*Javascript
-\*GDScript
+- C#
+- HTML
+- CSS
+- Javascript
+- GDScript
